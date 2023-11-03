@@ -1,1 +1,1 @@
-[Dale Aquí jsjs](https://github.com/YahirZapataSx/PorqSi/blob/main/index.html)
+[Dale Aquí jsjs](https://yahirzapatasx.github.io/porqsi/)
